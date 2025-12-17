@@ -15,8 +15,8 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 # ============= КОНФИГУРАЦИЯ =============
-BOT_TOKEN = "8535714676:AAFqwdMhhMumh1bcWOZRRy9lv_dlJTEU2l4"
-ADMIN_IDS = [5964864548]  # Замените на ID админов
+BOT_TOKEN = ""
+ADMIN_IDS = []  # Замените на ID админов
 
 
 # ============= БАЗА ДАННЫХ =============
