@@ -1,0 +1,24 @@
+{
+  "start_message": {
+    "text": "👋 <b>Добро пожаловать!</b>\n\nВыберите товар для покупки:",
+    "media_type": null,
+    "media_id": null
+  },
+  "products": {
+    "prod_1765648321": {
+      "name": "Бот с нейросетью",
+      "description": "Это бот с нейросетью и разными языковыми моделями",
+      "price": 1,
+      "material": {
+        "type": "file",
+        "file_id": "BQACAgIAAxkBAAM2aT2oDcd8oUYOiLqoavPuk96D-9wAApKPAAIEDOlJi3Qg_gABNbfuNgQ"
+      },
+      "created_at": "2025-12-13T20:52:01.516107"
+    }
+  },
+  "orders": [],
+  "stats": {
+    "total_orders": 0,
+    "total_revenue": 0
+  }
+}
